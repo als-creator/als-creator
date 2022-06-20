@@ -1,3 +1,9 @@
+<h1 align="center">Hi there, I'm <a href="https://github.com/als-creator" target="_blank">Aleksandr</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Omsk, Russia 🇷🇺</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=39F731&lines=I+use+%3A)](https://git.io/typing-svg)
+
 OS:
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
