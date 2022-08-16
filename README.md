@@ -44,4 +44,6 @@ Education:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=als-creator&theme=dracula)
 
+[![Als StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://ru.stackoverflow.com/users/506480/als)
+
 
