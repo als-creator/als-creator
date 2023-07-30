@@ -1,14 +1,15 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/als-creator" target="_blank">Aleksandr</a> 
+<h1 align="center">Hi, I'm <a href="https://github.com/als-creator" target="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Omsk, Russia 🇷🇺</h3>
+<h3 align="center">Russia 🇷🇺</h3>
 
+Contact me at: [Telegram](https://t.me/i_als) [LinkedIn](https://www.linkedin.com/in/aermoshkin/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=39F731&lines=I+use+%3A)](https://git.io/typing-svg)
+My tech stack:
 
 OS:
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 Languages, Frameworks, Platforms and Libraries:
 
@@ -26,16 +27,10 @@ Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-
-Design:
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
 Education:
@@ -47,5 +42,5 @@ Education:
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=als-creator&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=als-creator&layout=compact&theme=radical)
 
