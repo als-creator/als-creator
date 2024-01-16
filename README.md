@@ -1,8 +1,6 @@
 <h2 align="center">Hi, I'm <a href="https://github.com/als-creator" target="_blank">Aleksandr</a> </h2>
 <h3 align="center">Russia, Omsk</h3>
 
-Contact me at: [Telegram](https://t.me/i_als) [LinkedIn](https://www.linkedin.com/in/aermoshkin/)
-
 My tech stack:
 
 OS:
