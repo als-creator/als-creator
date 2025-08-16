@@ -1,5 +1,4 @@
 <h2 align="center">Hi, I'm Aleksandr</a> </h2>
-<h3 align="center">Russia, Omsk</h3>
 
 My tech stack:
 
