@@ -1,6 +1,23 @@
-<marquee behavior="alternate" direction="left" scrollamount="3" style="background-color: #f0f8ff; padding: 15px; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px; color: #333;">
- Hello | Здравствуйте | שלום  | السلام عليكم | Bonjour | ¡Hola! | Ciao | Guten Tag | こんにちは  | 안녕하세요 | 你好 | Olá | Merhaba | नमस्ते | Szia | Hej | Hallo | Γειά σας 
-</marquee>
+<div class="scrolling-text">
+  Здравствуйте | Hello | Bonjour | Hola | Ciao | Guten Tag | こんにちは | 안녕하세요 | 你好 | Olá | Привет | Merhaba | Namaste | Szia | Hej | Hallo | Γεια
+</div>
+
+<style>
+.scrolling-text {
+  background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: scroll-text 15s linear infinite;
+  white-space: nowrap;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+@keyframes scroll-text {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
 
 My tech stack:
 
