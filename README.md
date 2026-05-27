@@ -1,4 +1,6 @@
-<h2 align="center">Hi, I'm Aleksandr</a> </h2>
+<marquee behavior="alternate" direction="left" scrollamount="3" style="background-color: #f0f8ff; padding: 15px; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px; color: #333;">
+ Hello | Здравствуйте | שלום  | السلام عليكم | Bonjour | ¡Hola! | Ciao | Guten Tag | こんにちは  | 안녕하세요 | 你好 | Olá | Merhaba | नमस्ते | Szia | Hej | Hallo | Γειά σας 
+</marquee>
 
 My tech stack:
 
